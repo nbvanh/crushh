@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Mãi iu lun",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/13093.anh';
+                    window.location = 'https://fb.com/13093.anh';
                   }
             })
         }
